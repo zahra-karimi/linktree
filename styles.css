@@ -82,7 +82,7 @@
  #protfolio{
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f0f0f0;
+    background: linear-gradient(to bottom, #FFCC80,  #f48240);
 }
 
 .header {

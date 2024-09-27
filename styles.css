@@ -4,7 +4,7 @@
     padding: 0;
 }
 
-body {
+#linktree {
     font-family: Arial, sans-serif;
     background-color: #dde0e4;
     display: flex;
@@ -76,4 +76,94 @@ body {
     height: 24px; 
     margin-right: 10px; 
 }
+
+ /* Protfolio style */
+
+ #protfolio{
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f0f0f0;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    padding: 20px; 
+    margin-left: 40px;
+}
+
+.protfolio-image {
+    max-width: 200px;
+    border-radius: 50%; 
+}
+
+.text-container {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    text-align: center; 
+    margin-left: 100px;
+}
+
+.contact, .skills{
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.skills h2, .contact h2 {
+    margin-bottom: 10px;
+}
+
+.skills ul {
+    list-style-type: none;
+}
+
+.skills li {
+    background: #e7f1ff;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.contact form {
+    display: flex;
+    flex-direction: column;
+}
+
+.contact input, .contact textarea {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.contact button {
+    padding: 10px;
+    border: none;
+    background-color:  #f48240;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.contact button:hover {
+    background-color:  #f48240;
+}
+
+.about{
+    margin: 50px;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
 

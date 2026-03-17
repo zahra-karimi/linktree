@@ -9,9 +9,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
     background: linear-gradient(to bottom, #faf7f7, #cac7c7);
-
+    padding-bottom: 50px;
+    padding-top: 50px;
 }
 
 .container {

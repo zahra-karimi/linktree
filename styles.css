@@ -38,7 +38,7 @@
 .profile-name {
     font-size: 2rem;
     margin-bottom: 10px;
-    color: #f48240;
+    color: #62B6CB;
 }
 
 .bio {
@@ -58,7 +58,7 @@
     justify-content: center;
     text-decoration: none;
     padding: 10px;
-    background-color: #f48240;
+    background-color: #62B6CB;
     color: white;
     font-weight: bold;
     border-radius: 5px;
@@ -68,7 +68,7 @@
 
 .link:hover {
     background-color: #dde0e4;
-    color: #f48240;
+    color: #62B6CB;
     font-weight: bold;
     
 }
@@ -84,7 +84,7 @@
  #protfolio{
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background: linear-gradient(to bottom, #FFCC80,  #f48240);
+    background: linear-gradient(to bottom, #FFCC80,  #62B6CB);
 }
 
 .header {
@@ -151,14 +151,14 @@
 .contact button {
     padding: 10px;
     border: none;
-    background-color:  #f48240;
+    background-color:  #62B6CB;
     color: white;
     border-radius: 5px;
     cursor: pointer;
 }
 
 .contact button:hover {
-    background-color:  #f48240;
+    background-color:  #62B6CB;
 }
 
 
